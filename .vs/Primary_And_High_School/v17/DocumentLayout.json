@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9584AF-0CA3-406B-94E0-0907152A15A0}|Primary_High_School.DAL\\Primary_High_School.DAL.csproj|c:\\users\\27609\\desktop\\primary_and_high_school\\primary_high_school.dal\\primary_and_highdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9584AF-0CA3-406B-94E0-0907152A15A0}|Primary_High_School.DAL\\Primary_High_School.DAL.csproj|solutionrelative:primary_high_school.dal\\primary_and_highdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\27609\\desktop\\primary_and_high_school\\primary_and_high_school.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\27609\\desktop\\primary_and_high_school\\primary_and_high_school.domain\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\27609\\desktop\\primary_and_high_school\\primary_and_high_school.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primary_And_HighDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "RelativeDocumentMoniker": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "RelativeToolTip": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:03:20.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Subject.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Subject.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Subject.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:58:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Book.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Book.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:57:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Student.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\27609\\Desktop\\Primary_And_High_School\\Primary_And_High_School.Domain\\Student.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:57:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
