@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Primary_And_High_School.Domain/1.0.0": {
+        "runtime": {
+          "Primary_And_High_School.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primary_And_High_School.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
