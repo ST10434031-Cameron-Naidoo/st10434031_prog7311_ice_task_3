@@ -8,14 +8,12 @@ namespace Primary_And_High_School.Domain
 {
     public class Student
     {
+            public string StudentNumber { get; set; } = string.Empty;
+            public string FirstName { get; set; } = string.Empty;
+            public string Surname { get; set; } = string.Empty;
+            public DateTime DateOfBirth { get; set; }
 
-        public string StudentNumber { get; set; } = string.Empty;
-        public string FirstName { get; set; } = string.Empty;
-
-        public string Surname { get; set; } = string.Empty;
-        public DateTime DateOfBirth { get; set; }
-
-        public List<Subject> Subjects { get; set; } = new List<Subject>();
-        public List<Book> Books { get; set; } = new List<Book>();
+            public List<Subject> Subjects { get; set; } = new List<Subject>();
+        
     }
 }

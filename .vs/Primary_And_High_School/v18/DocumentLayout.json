@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9584AF-0CA3-406B-94E0-0907152A15A0}|Primary_High_School.DAL\\Primary_High_School.DAL.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_high_school.dal\\primary_and_highdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9584AF-0CA3-406B-94E0-0907152A15A0}|Primary_High_School.DAL\\Primary_High_School.DAL.csproj|solutionrelative:primary_high_school.dal\\primary_and_highdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.domain\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0A84B-B852-467D-850B-E6FD5359C70A}|Primary_And_High_School.Domain\\Primary_And_High_School.Domain.csproj|solutionrelative:primary_and_high_school.domain\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primary_And_HighDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "RelativeDocumentMoniker": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "RelativeToolTip": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:17:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Subject.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Subject.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Subject.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Subject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:17:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Book.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Book.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:17:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Student.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Student.cs",
+              "RelativeToolTip": "Primary_And_High_School.Domain\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:17:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

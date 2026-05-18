@@ -12,7 +12,8 @@ namespace Primary_And_High_School.Domain
         public string Title { get; set; } = string.Empty;
         public string Author { get; set; } = string.Empty;
 
-        public string StudentNumber { get; set; } = string.Empty;
-        public Student? Student { get; set; }
+        // Foreign key to Subject
+        public int SubjectId { get; set; }
+        public Subject? Subject { get; set; }
     }
 }
