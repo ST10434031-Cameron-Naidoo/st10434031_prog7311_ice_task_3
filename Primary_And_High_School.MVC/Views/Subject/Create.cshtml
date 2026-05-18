@@ -1,0 +1,29 @@
+﻿@model Primary_And_High_School.Domain.Subject
+
+<h2>Add Subject</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="SubjectName" class="form-label"></label>
+        <input asp-for="SubjectName" class="form-control" />
+        <span asp-validation-for="SubjectName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="NumCredits" class="form-label"></label>
+        <input asp-for="NumCredits" class="form-control" />
+        <span asp-validation-for="NumCredits" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="StudentNumber" class="form-label"></label>
+        <select asp-for="StudentNumber" class="form-control">
+            <option value="">-- Select Student --</option>
+            @foreach (var student in ViewBag.Students)
+            {
+                <option value="@student.StudentNumber">@student.FirstName @student.Surname</option>
+            }
+        </select>
+        <span asp-validation-for="StudentNumber" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

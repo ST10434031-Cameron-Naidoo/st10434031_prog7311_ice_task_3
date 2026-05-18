@@ -1,0 +1,31 @@
+﻿@model List<Primary_And_High_School.Domain.Student>
+
+<h2>Students</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">Add Student</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Student Number</th>
+            <th>First Name</th>
+            <th>Surname</th>
+            <th>Date of Birth</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.StudentNumber</td>
+                <td>@student.FirstName</td>
+                <td>@student.Surname</td>
+                <td>@student.DateOfBirth.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@student.StudentNumber" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@student.StudentNumber" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

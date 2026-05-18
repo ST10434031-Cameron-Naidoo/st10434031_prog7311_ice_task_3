@@ -1,0 +1,11 @@
+﻿@using Primary_And_High_School.Domain
+@model Primary_And_High_School.Domain.Student
+
+<h2>Delete Student</h2>
+<p>Are you sure you want to delete <strong>@Model.FirstName @Model.Surname</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="StudentNumber" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

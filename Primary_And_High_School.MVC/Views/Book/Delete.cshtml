@@ -1,0 +1,10 @@
+﻿@model Primary_And_High_School.Domain.Book
+
+<h2>Delete Book</h2>
+<p>Are you sure you want to delete <strong>@Model.Title</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="BookId" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
