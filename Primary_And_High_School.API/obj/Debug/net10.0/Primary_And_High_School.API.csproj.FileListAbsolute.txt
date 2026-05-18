@@ -1,0 +1,9 @@
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.API\obj\Debug\net10.0\Primary_And_High_School.API.sourcelink.json

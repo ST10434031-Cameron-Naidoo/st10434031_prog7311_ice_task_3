@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.6.11806.211 stable
+VisualStudioVersion = 18.6.11806.211
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary_And_High_School.Domain", "Primary_And_High_School.Domain\Primary_And_High_School.Domain.csproj", "{60D0A84B-B852-467D-850B-E6FD5359C70A}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary_And_High_School.Services", "Primary_And_High_School.Services\Primary_And_High_School.Services.csproj", "{27921E99-6D0F-46A2-A089-BB5C54D9437C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary_And_High_School.MVC", "Primary_And_High_School.MVC\Primary_And_High_School.MVC.csproj", "{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary_And_High_School.API", "Primary_And_High_School.API\Primary_And_High_School.API.csproj", "{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

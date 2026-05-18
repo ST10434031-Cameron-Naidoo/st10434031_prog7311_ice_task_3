@@ -1,0 +1,6 @@
+@Primary_And_High_School.API_HostAddress = http://localhost:5221
+
+GET {{Primary_And_High_School.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

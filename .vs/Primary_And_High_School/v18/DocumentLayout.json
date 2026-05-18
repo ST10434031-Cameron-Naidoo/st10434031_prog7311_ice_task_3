@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D0B61E-61E7-46A7-917A-8DB31CAD2B56}|Primary_And_High_School.API\\Primary_And_High_School.API.csproj|solutionrelative:primary_and_high_school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}|Primary_And_High_School.MVC\\Primary_And_High_School.MVC.csproj|c:\\users\\lab_services_student\\desktop\\st10434031_prog7311_ice_task_3\\primary_and_high_school.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F5BECD0-F2AA-4E06-9AC5-F0BB0BD9FA96}|Primary_And_High_School.MVC\\Primary_And_High_School.MVC.csproj|solutionrelative:primary_and_high_school.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -134,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,16 +177,86 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Primary_And_High_School.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T01:11:09.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "Primary_And_High_School.API\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T01:10:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Primary_And_High_School.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T01:10:17.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\appsettings.json",
+              "RelativeToolTip": "Primary_And_High_School.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T01:09:25.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Primary_And_High_School.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T01:09:11.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Program.cs",
+              "RelativeDocumentMoniker": "Primary_And_High_School.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.API\\Program.cs",
+              "RelativeToolTip": "Primary_And_High_School.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T01:08:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -175,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Book\\Delete.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Book\\Delete.cshtml",
@@ -188,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Book\\Edit.cshtml",
@@ -201,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Book\\Create.cshtml",
@@ -214,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Book\\Index.cshtml",
@@ -227,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Subject\\Delete.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Subject\\Delete.cshtml",
@@ -240,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Subject\\Edit.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Subject\\Edit.cshtml",
@@ -253,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Subject\\Create.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Subject\\Create.cshtml",
@@ -266,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Subject\\Index.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Subject\\Index.cshtml",
@@ -279,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Student\\Delete.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Student\\Delete.cshtml",
@@ -292,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Student\\Edit.cshtml",
@@ -305,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Student\\Create.cshtml",
@@ -318,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Views\\Student\\Index.cshtml",
@@ -331,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "SubjectController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Controllers\\SubjectController.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Controllers\\SubjectController.cs",
@@ -344,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Controllers\\BookController.cs",
@@ -352,11 +446,12 @@
               "RelativeToolTip": "Primary_And_High_School.MVC\\Controllers\\BookController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:54:27.159Z"
+              "WhenOpened": "2026-05-18T00:54:27.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Controllers\\StudentController.cs",
@@ -364,11 +459,12 @@
               "RelativeToolTip": "Primary_And_High_School.MVC\\Controllers\\StudentController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAxwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:53:23.459Z"
+              "WhenOpened": "2026-05-18T00:53:23.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Primary_High_School.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_High_School.DAL\\Primary_High_School.DAL.csproj",
               "RelativeDocumentMoniker": "Primary_High_School.DAL\\Primary_High_School.DAL.csproj",
@@ -376,11 +472,12 @@
               "RelativeToolTip": "Primary_High_School.DAL\\Primary_High_School.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-18T00:35:28.686Z"
+              "WhenOpened": "2026-05-18T00:35:28.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "20260518004610_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_High_School.DAL\\Migrations\\20260518004610_InitialCreate.cs",
               "RelativeDocumentMoniker": "Primary_High_School.DAL\\Migrations\\20260518004610_InitialCreate.cs",
@@ -388,11 +485,12 @@
               "RelativeToolTip": "Primary_High_School.DAL\\Migrations\\20260518004610_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:46:10.587Z"
+              "WhenOpened": "2026-05-18T00:46:10.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\appsettings.json",
@@ -400,11 +498,12 @@
               "RelativeToolTip": "Primary_And_High_School.MVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-18T00:36:31.75Z"
+              "WhenOpened": "2026-05-18T00:36:31.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.MVC\\Program.cs",
@@ -412,11 +511,12 @@
               "RelativeToolTip": "Primary_And_High_School.MVC\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:35:28.931Z"
+              "WhenOpened": "2026-05-18T00:35:28.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Repositories\\BookRepository.cs",
@@ -424,11 +524,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Repositories\\BookRepository.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:31:58.792Z"
+              "WhenOpened": "2026-05-18T00:31:58.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "SubjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Repositories\\SubjectRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Repositories\\SubjectRepository.cs",
@@ -436,11 +537,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Repositories\\SubjectRepository.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:31:31.975Z"
+              "WhenOpened": "2026-05-18T00:31:31.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Interfaces\\IBookRepository.cs",
@@ -448,11 +550,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Interfaces\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:31:04.486Z"
+              "WhenOpened": "2026-05-18T00:31:04.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "ISubjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Interfaces\\ISubjectRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Interfaces\\ISubjectRepository.cs",
@@ -460,11 +563,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Interfaces\\ISubjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:30:41.081Z"
+              "WhenOpened": "2026-05-18T00:30:41.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Interfaces\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Interfaces\\IStudentRepository.cs",
@@ -472,11 +576,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Interfaces\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:30:24.637Z"
+              "WhenOpened": "2026-05-18T00:30:24.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Repositories\\StudentRepository.cs",
@@ -484,11 +589,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:28:41.007Z"
+              "WhenOpened": "2026-05-18T00:28:41.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Services\\Class1.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Services\\Class1.cs",
@@ -496,11 +602,12 @@
               "RelativeToolTip": "Primary_And_High_School.Services\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:27:23.833Z"
+              "WhenOpened": "2026-05-18T00:27:23.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Primary_And_HighDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
               "RelativeDocumentMoniker": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
@@ -508,11 +615,12 @@
               "RelativeToolTip": "Primary_High_School.DAL\\Primary_And_HighDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:17:56.901Z"
+              "WhenOpened": "2026-05-18T00:17:56.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Book.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Book.cs",
@@ -520,31 +628,42 @@
               "RelativeToolTip": "Primary_And_High_School.Domain\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:17:56.985Z"
+              "WhenOpened": "2026-05-18T00:17:56.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Student.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Student.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Student.cs",
               "RelativeToolTip": "Primary_And_High_School.Domain\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:17:56.995Z"
+              "WhenOpened": "2026-05-18T00:17:56.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Subject.cs",
               "RelativeDocumentMoniker": "Primary_And_High_School.Domain\\Subject.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\st10434031_prog7311_ice_task_3\\Primary_And_High_School.Domain\\Subject.cs",
               "RelativeToolTip": "Primary_And_High_School.Domain\\Subject.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:17:56.98Z"
+              "WhenOpened": "2026-05-18T00:17:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
