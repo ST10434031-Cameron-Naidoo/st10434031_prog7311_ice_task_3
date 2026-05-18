@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\bin\Debug\net8.0\Primary_And_High_School.Domain.deps.json
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\bin\Debug\net8.0\Primary_And_High_School.Domain.dll
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\bin\Debug\net8.0\Primary_And_High_School.Domain.pdb
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.sourcelink.json
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.dll
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\refint\Primary_And_High_School.Domain.dll
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\Primary_And_High_School.Domain.pdb
+C:\Users\lab_services_student\Desktop\st10434031_prog7311_ice_task_3\Primary_And_High_School.Domain\obj\Debug\net8.0\ref\Primary_And_High_School.Domain.dll
